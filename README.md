@@ -1,4 +1,4 @@
-# UI Extensions ⨯ Basic Input
+# GraphCMS UI Extension for Fontawesome Icon Picker
 
 A simple GraphCMS UI Extension that adds a Fontawesome icon selector
 
